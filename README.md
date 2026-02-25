@@ -3,7 +3,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:071627,50:023047,100:006064&reversal=true" alt="header"/>
 </div>
 
-<h1 align="center">📊 DataPolis Investiga</h1>
+<h1 align="center"> DataPolis Investiga</h1>
 
 <p align="center" style="max-width:780px;">
   <em>Economía simple para jóvenes · Tendencias al día</em><br/>
@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-  📧 <a href="mailto:coordinacion@gmail.com">coordinacion@gmail.com</a>
+   <a href="mailto:coordinacion@gmail.com">coordinacion@gmail.com</a>
 </p>
 
 <hr/>
@@ -48,7 +48,7 @@
 <hr/>
 
 <!-- ═══════════════════════  ABOUT  ═══════════════════════ -->
-## 🎯 ¿Qué publicamos?
+##  ¿Qué publicamos?
 
 | Área | Contenido |
 |------|-----------|
